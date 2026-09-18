@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=A52A2A&center=true&vCenter=true&width=1580&lines=KILLING+FLOOR+3+HACK+2026;GOD+MODE+•+ONE+HIT+•+NO+RECOIL;SURVIVE+THE+ZED+APOCALYPSE" alt="Killing Floor 3 Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0b02757-f381-4cf6-8432-27664d0e7589" />
 </div>
 
 <br/>
